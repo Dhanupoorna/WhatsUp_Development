@@ -10,3 +10,5 @@ Author : POORNA
 3. Last seen code
 
 4.Attachements (image, Audio, video) code
+
+5.Hidding the  last seen
