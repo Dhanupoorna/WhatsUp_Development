@@ -9,7 +9,7 @@ Author : POORNA
 
 3. Last seen code
 
-4.Attachements (image, Audio, video) code
+4.Attachements (image, Audio, video and documents) code
 
 5.Hiddi
 
@@ -18,6 +18,8 @@ Author : POORNA
 7.Adding the video call feature
 
 8.Adding status  so that user can paly train games 
+
+
 
 
 
